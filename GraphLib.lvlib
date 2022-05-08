@@ -4,8 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="TypeDefs" Type="Folder">
-		<Item Name="Cluster - Edge.ctl" Type="VI" URL="../Abstract Graph/Cluster - Edge.ctl"/>
-		<Item Name="Cluster - Graph Node.ctl" Type="VI" URL="../Cluster - Graph Node.ctl"/>
+		<Item Name="Edge Internal.ctl" Type="VI" URL="../Abstract Graph/Edge Internal.ctl"/>
+		<Item Name="Edge.ctl" Type="VI" URL="../Abstract Graph/Edge.ctl"/>
+		<Item Name="Node Internal.ctl" Type="VI" URL="../Node Internal.ctl"/>
+		<Item Name="Node.ctl" Type="VI" URL="../Node.ctl"/>
 	</Item>
 	<Item Name="Abstract Graph.lvclass" Type="LVClass" URL="../Abstract Graph/Abstract Graph.lvclass"/>
 	<Item Name="Directed Graph.lvclass" Type="LVClass" URL="../Directed Graph/Directed Graph.lvclass"/>
